@@ -1,0 +1,15 @@
+html{
+    height: -webkit-fill-available;
+}
+body{
+    margin: 2% 10% 0 10%; 
+    font-family: Comic sans MS;
+    font-size: 18px;
+}
+.background-photo{
+    background-image: url("background.png");
+    background-size: cover;
+}
+.main-heading{
+    text-align:center;
+}
